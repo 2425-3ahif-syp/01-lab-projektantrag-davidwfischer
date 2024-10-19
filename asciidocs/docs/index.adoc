@@ -1,4 +1,24 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+= Projektantrag: Reisebüro-Verwaltungssystem
 
-image::img.png[]
+== Projektbeschreibung
+Die Software soll Kunden, Angebote, Buchungen und Zahlungen im Reisebüro verwalten. Es automatisiert die Abläufe und bietet eine einfache Bedienung für Kunden und Mitarbeiter.
+
+== Aufgabenbeschreibung
+==== Das Projekt umfasst die Entwicklung eines Systems mit folgenden Hauptfunktionen:
+
+* Kundenverwaltung: Anzeige von Buchungen und Verwaltung von Kundendaten
+* Reiseangebote: Verwaltung von Angeboten wie Flüge und Hotels
+* Zahlungssystem: Zahlungsmöglichkeiten für Buchungen.
+
+== Nutzen des Projekts
+Das System vereinfacht die Abläufe im Reisebüro. Kunden können schnell und bequem Reisen buchen, während das Büro Buchungen und Angebote leichter verwalten kann. Es spart Zeit, reduziert Fehler und verbessert den Service.
+
+== Konsequenzen bei Nichtdurchführung
+Ohne dem Verwaltungssystem ist das Reisebüro auf mögliche fehleranfällige Prozesse angewiesen, was zu nicht effizienter Verwaltung und längeren Bearbeitungszeiten für Kunden führen könnte.
+
+== Rahmenbedingungen
+* **Personell**: Das Projekt erfordert ein Entwicklungsteam, einen Webserver und mindestens eine Datenbank.
+* **Finanziell**: Die Kosten belaufen sich auf 2000€ bis 5000€ für einen Webserver und Datenbanken.
+
+
+
